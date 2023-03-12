@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Farez Samah Ikram 🍂</h1>
+<h1 align="center">Hello there 👋 I'm Farez Samah Ikram 🍂</h1>
 <h3 align="center">A computer science, artificial intelligence and cyber security student.</h3>
 
 - 👩🏻‍💻 I’m constantly working on **some interesting projects**
