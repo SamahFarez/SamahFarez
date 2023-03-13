@@ -10,8 +10,7 @@
 - 📫 Contact me **samah.farez@ensia.edu.dz || samah.ikramfarez@gmail.com**
 
 <!-- This will place the images next to eachother -->
-![brightprogrammer's github stats](https://github-readme-stats.vercel.app/api?username=samahfarez&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=samahfarez&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samahfarez&theme=prussian"/>
 
 
