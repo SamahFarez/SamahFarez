@@ -12,7 +12,7 @@
 <br/>
 
 <!-- This will place the images next to eachother -->
-<img src="https://github-readme-stats.vercel.app/api?username=samahfarez&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>                                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samahfarez&theme=midnight-purple"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samahfarez&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>                                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samahfarez&theme=github_dark"/>
 
 
 
