@@ -11,9 +11,6 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samahfarez&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) . . . . . . .[![Stats](https://github-readme-stats.vercel.app/api?username=samahfarez&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)                             
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samahfarez&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Stats](https://github-readme-stats.vercel.app/api?username=samahfarez&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)                             
 
 
