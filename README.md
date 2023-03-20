@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m constantly working on **some interesting projects**
 
-- 🍀 Currently learning **cyber security and more about artificial intelligence and quantum computing**
+- 🍀 Currently learning **cyber security and more about artificial intelligence**<!-- and quantum computing** -->
 
 - 📝 Feel free to contribute **for the sake of sharing knowledge**
 
