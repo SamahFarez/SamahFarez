@@ -51,6 +51,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+    <img src="https://imgs.search.brave.com/QslPy5fWBDJpeXsF7f58by4ek7uu9MpwP9EN_puUxoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21t/dW5pdHkuY2hvY29s/YXRleS5vcmcvY29u/dGVudC9wYWNrYWdl/aW1hZ2VzL2J1cnAt/c3VpdGUtZnJlZS1l/ZGl0aW9uLjIwMjIu/MTIuNC5wbmc" title="BurpSuite" alt="BurpSuite" width="40" height="40"/>&nbsp;
+
 </div>
 </div>
 
