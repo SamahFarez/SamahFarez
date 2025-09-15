@@ -7,7 +7,7 @@
 
 - 📝 Feel free to contribute **for the sake of sharing knowledge**
 
-- 📫 Contact me **samah.farez@ensia.edu.dz || samah.ikramfarez@gmail.com**
+- 📫 Contact me **ikram.samah.farez@gmail.com**
 <!-- 
   
 <!-- This will place the images next to eachother
